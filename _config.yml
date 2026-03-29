@@ -1,0 +1,11 @@
+title: My Niche Blog
+description: "Home coffee brewing tips, guides and reviews."
+url: "https://gtgmisho.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
